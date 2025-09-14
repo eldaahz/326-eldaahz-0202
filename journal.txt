@@ -1,3 +1,7 @@
 Week 1 
 
-What I learned 
+This week I used Al to help me remember how to use the .strip() function. 
+I did not use AI to complete the work for me, I instead use it to understand 
+its function in example problems. I like how it broke down it's syntax and
+how to remove specific characters. 
+Here is the link to my chat: https://chatgpt.com/share/68c724fb-4b3c-800a-8d83-c80d0ac0bf32
