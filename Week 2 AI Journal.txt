@@ -1,1 +1,5 @@
 # week 2 AI journal 
+
+I used AI to help explain concepts like loops, conditionals, and lists in clear steps. 
+It helped me bu using examples and explained why it worked as opposed to other methods.
+AI helped me problem solve. 
