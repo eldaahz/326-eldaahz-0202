@@ -1,0 +1,5 @@
+Week 3 AI Journal
+
+This week I used AI to help refresh my memory when it comes to using elif. It helped me understand that it is used in a conditional statement
+after a if statement. I remember learning this in INST126 but could not recall how to use it. It gave me a few examples which was great. 
+Here's the link to my chat: https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_nonbrand&utm_campaign=GOOG_C_SEM_GNB_Core-Thematic_CHT_BAU_ACQ_PER_MIX_ALL_NAMER_US_EN_112624&utm_term=ai%20blog&utm_content=170788222029&utm_ad=723092045955&utm_match=b&gad_source=1&gad_campaignid=21957315043&gbraid=0AAAAA-IW-UX0q5qKDDkPIm251L05UBA4X&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp3fYEcrJnMh-hrYU7QC2AU41jHd0d_GHh7XMFd2_HG7tvLAcuZqsVwaAhiHEALw_wcB
