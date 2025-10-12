@@ -5,3 +5,25 @@ I did not use AI to complete the work for me, I instead use it to understand
 its function in example problems. I like how it broke down it's syntax and
 how to remove specific characters. 
 Here is the link to my chat: https://chatgpt.com/share/68c724fb-4b3c-800a-8d83-c80d0ac0bf32
+
+# week 2 AI journal 
+
+I used AI to help explain concepts like loops, conditionals, and lists in clear steps. 
+It helped me bu using examples and explained why it worked as opposed to other methods.
+AI helped me problem solve. 
+
+#Week 3 AI Journal
+
+This week I used AI to help refresh my memory when it comes to using elif. It helped me understand that it is used in a conditional statement
+after a if statement. I remember learning this in INST126 but could not recall how to use it. It gave me a few examples which was great. 
+Here's the link to my chat: https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_nonbrand&utm_campaign=GOOG_C_SEM_GNB_Core-Thematic_CHT_BAU_ACQ_PER_MIX_ALL_NAMER_US_EN_112624&utm_term=ai%20blog&utm_content=170788222029&utm_ad=723092045955&utm_match=b&gad_source=1&gad_campaignid=21957315043&gbraid=0AAAAA-IW-UX0q5qKDDkPIm251L05UBA4X&gclid=Cj0KCQjw0NPGBhCDARIsAGAzpp3fYEcrJnMh-hrYU7QC2AU41jHd0d_GHh7XMFd2_HG7tvLAcuZqsVwaAhiHEALw_wcB
+
+#Week 4 AI Journal 
+
+This week I used AI to show me examples of how "_init_" is used. I asked for examples of how it's used
+and a thorough explanation for each line of code.
+Here is the link to my chat: https://chatgpt.com/c/68e2b4bf-6f98-8331-ba4e-5dd09b992d40
+
+#Week 5 AI Journal 
+This week I used AI to help me use the ValueError function. I've never used it before so I wanted make sure I was
+using it property with examples as well. It gave me a great explanation and I was able to perfectly implement it in my Week5 Excersise assignment.  Here is the link to my chat: https://chatgpt.com/c/68ec2790-70e4-8320-8f24-4b17c0091557
