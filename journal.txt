@@ -27,3 +27,6 @@ Here is the link to my chat: https://chatgpt.com/c/68e2b4bf-6f98-8331-ba4e-5dd09
 #Week 5 AI Journal 
 This week I used AI to help me use the ValueError function. I've never used it before so I wanted make sure I was
 using it property with examples as well. It gave me a great explanation and I was able to perfectly implement it in my Week5 Excersise assignment.  Here is the link to my chat: https://chatgpt.com/c/68ec2790-70e4-8320-8f24-4b17c0091557
+
+#Week 6 AI Journal 
+This week I used AI to help me understand using specific classes to implement methods like short_label(), author_lastname(), and citation(). It helped me better understand how to use attributes and instance methods. Here is the link to my chat https://chatgpt.com/c/68fe9f18-a010-8332-8352-a4ff978a95c2
