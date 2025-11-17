@@ -38,3 +38,6 @@ https://chatgpt.com/c/69066a07-fbd4-8330-b10d-b1e694650ece
 #Week 8 AI Journal 
 This week I used AI to heelp me better understand polymorphism and why it's important in python. I learned that it's about being able to use a single fucntion to perform many behaviors. Here is the link to my chat:  https://chatgpt.com/c/6910f2f3-7a88-832a-9e91-90dede224ec1
 
+#Week 9 AI Journal 
+The week I used AI to help me understand why marking @abstractmethod in your code is so important. It taught me that any subclass must implement it and helps with designing a clean and clear API. Here's the link to my chat: https://chatgpt.com/c/691a9336-8704-832b-a035-d37e080a413a
+
