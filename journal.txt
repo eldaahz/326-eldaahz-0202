@@ -41,3 +41,7 @@ This week I used AI to heelp me better understand polymorphism and why it's impo
 #Week 9 AI Journal 
 The week I used AI to help me understand why marking @abstractmethod in your code is so important. It taught me that any subclass must implement it and helps with designing a clean and clear API. Here's the link to my chat: https://chatgpt.com/c/691a9336-8704-832b-a035-d37e080a413a
 
+#Week 10 AI Journal 
+This week, I used AI to help me understand the importance of including @property in your code. 
+I learned that it helps you understand how an attribute is accessed or modified without needing to change the code entirely. Here's the link to my chat: https://chatgpt.com/c/692263c3-60f8-8326-b4ee-aae5d06bb3f5
+
