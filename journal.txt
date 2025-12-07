@@ -45,3 +45,7 @@ The week I used AI to help me understand why marking @abstractmethod in your cod
 This week, I used AI to help me understand the importance of including @property in your code. 
 I learned that it helps you understand how an attribute is accessed or modified without needing to change the code entirely. Here's the link to my chat: https://chatgpt.com/c/692263c3-60f8-8326-b4ee-aae5d06bb3f5
 
+#Week12 AI Journal 
+This week I used AI to help me better understand refactoring and the most common refactoring methods used. I learned that the most common method would be the extract method/function. Here's the link to my chat: https://chatgpt.com/c/6935b14b-d9ec-8332-a412-99973523b53e. 
+
+
