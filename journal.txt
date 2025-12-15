@@ -48,4 +48,8 @@ I learned that it helps you understand how an attribute is accessed or modified 
 #Week12 AI Journal 
 This week I used AI to help me better understand refactoring and the most common refactoring methods used. I learned that the most common method would be the extract method/function. Here's the link to my chat: https://chatgpt.com/c/6935b14b-d9ec-8332-a412-99973523b53e. 
 
+#Week13 AI Journal 
+This week I used AI to help me better understand how to organize and clean my github branch. I was working on mnay things at once and wanted to ensure my code and read me was neat. Here's the link to my chat: https://chatgpt.com/c/693f5fd5-ca48-832b-afdb-72866144c1a0
+
+
 
